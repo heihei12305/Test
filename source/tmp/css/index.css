@@ -1,0 +1,106 @@
+
+#container{
+    border:2px solid black;
+    height:200px;
+    margin: 70px 0px 0px 20px;
+}
+.center{
+    margin: auto;
+    width: 60%;
+    /* padding: 10px; */
+}
+button{
+    background-color: rgb(12, 132, 211);
+    color:white;
+    height:30px;
+    font-size: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* border-radius: 10px; */
+    /* margin: 0px 5px 0px 50px; */
+    
+    
+}
+.title{
+    margin:8px 0px 2px 0px;
+}
+.tab{
+    margin:0px;
+}
+.tab td{
+    border:1px solid gray;
+    height:30px;
+    width:120px;
+    border-collapse: collapse;
+}
+.tab .Ktr {
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+.Ktd {
+border: 1px solid #cacbd3;
+height:35px;
+width:111px;
+}
+.tab .Ktr td {
+border: 1px solid #cacbd3;
+height: 35px;
+width: 111px;
+}
+.tab .Ktr td input {
+    font-size: 25px;
+    border: 0;
+    height: 35px;
+    width: 111px;
+}
+.tab .Ktr td select {
+    height: 28px;
+    width: 80px;
+}
+.Kip {
+    font-size: 25px;
+    border: 0;
+    height: 35px;
+    width: 111px;
+}
+.Ksl{
+height:28px;
+width:80px;
+}
+.delete {
+background-color: #428bca;
+border-color: #357ebd;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px; /* future proofing */
+text-align: center;
+vertical-align: middle;
+border: 1px solid transparent;
+padding-top: 4px;
+color: white;
+width:50px;
+}
+.info{
+    margin:0px auto;
+    text-align: center;
+    display: inline-flex;
+    width:1200px;
+}
+.info.left{
+    float:left;
+    padding:0px;
+} 
+.info.right{
+    float:right;
+    padding:0px;
+}
+#footer{
+    margin:0px;
+    font-size: 10px;
+}
+.rule1{
+    margin:2px;
+}
+ol{
+    margin:2px;
+}
